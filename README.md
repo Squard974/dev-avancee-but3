@@ -1,3 +1,3 @@
 # dev-avancee-but3
 
-lien du rapport : https://docs.google.com/document/d/1yWlPSAu5vxljCawFP3DcPT1Him9aVQRHeB33klmxXRU/edit?usp=sharing
+[Rapport TP1 Charité et Blockchain.pdf](https://github.com/Squard974/dev-avancee-but3/files/14096452/Rapport.TP1.Charite.et.Blockchain.pdf)
